@@ -80,7 +80,7 @@
     },
    "STATUS_REACT_EMOJIS": {
       "description": "Enter your auto like status emojis",
-      "value": "💚,🚀,🌎,✅",
+      "value": "💚,💯,♥️,✅",
       "required": false 
     },
     "AUTO_REACT": {
@@ -140,7 +140,7 @@
     },
     "GOODBYE_MESSAGE": {
       "description": "Enable  goodbye in groups (yes/no)",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "AUDIO_CHATBOT": {
